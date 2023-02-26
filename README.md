@@ -1,3 +1,9 @@
+[![archlinux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)](https://archlinux.org)
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]
+[![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]
+
 ## Emulators and retro gaming
 
 - [:pager: Zilog Z80 CPU](https://github.com/blr-ophon/z80nemu)
