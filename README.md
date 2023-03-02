@@ -12,11 +12,11 @@
 - [:space_invader: Taito 8080 arcade machines](https://github.com/blr-ophon/ntaito8080)
 - [:video_game: Atari Game](https://github.com/blr-ophon/Kbean_atari) 
 
-## Graphics Programming
+## Computer Graphics
 
 - [:tv: 3D raycasting engine](https://github.com/blr-ophon/simple3DRC)
 - [:tv: MODE 7 engine](https://github.com/blr-ophon/simpleM7)
 
-## System Programming
+## Operating Systems
 
 - [:dvd: cursedOS](https://github.com/blr-ophon/qrsedOS): Small x86 bootloader and kernel. 
