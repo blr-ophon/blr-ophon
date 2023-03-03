@@ -9,7 +9,7 @@
 - [:floppy_disk: Zilog Z80 CPU](https://github.com/blr-ophon/z80nemu)
 - [:floppy_disk: Intel 8080 CPU](https://github.com/blr-ophon/8080nemu)
 - [:floppy_disk: CHIP-8](https://github.com/blr-ophon/nchip8D)
-- [:space_invader: Taito 8080 arcade machines](https://github.com/blr-ophon/ntaito8080)
+- [:space_invader: Taito 8080 arcade machines](https://github.com/blr-ophon/ntaito8080): Using the 8080 cpu
 - [:video_game: Atari Game](https://github.com/blr-ophon/Kbean_atari) 
 
 ## Computer Graphics
