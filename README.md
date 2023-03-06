@@ -4,6 +4,10 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+## Operating Systems
+
+- [:dvd: cursedOS](https://github.com/blr-ophon/qrsedOS): Small x86 bootloader and kernel. 
+
 ## Emulators and retro gaming
 
 - [:floppy_disk: Zilog Z80 CPU](https://github.com/blr-ophon/z80nemu)
@@ -17,6 +21,3 @@
 - [:tv: 3D raycasting engine](https://github.com/blr-ophon/simple3DRC)
 - [:tv: MODE 7 engine](https://github.com/blr-ophon/simpleM7)
 
-## Operating Systems
-
-- [:dvd: cursedOS](https://github.com/blr-ophon/qrsedOS): Small x86 bootloader and kernel. 
