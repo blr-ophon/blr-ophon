@@ -4,7 +4,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Operating Systems
+## Systems Programming
 
 - [:dvd: cursedOS](https://github.com/blr-ophon/qrsedOS): Small x86 bootloader and kernel. 
 
