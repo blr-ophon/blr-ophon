@@ -8,6 +8,10 @@
 
 - [:dvd: cursedOS](https://github.com/blr-ophon/qrsedOS): Small x86 bootloader and kernel. 
 
+## Network Projects
+
+- [:speech_balloon: Minimal chatroom](https://github.com/blr-ophon/minimal_chatroom) 
+
 ## Emulators and retro gaming
 
 - [:floppy_disk: Zilog Z80 CPU](https://github.com/blr-ophon/z80nemu)
