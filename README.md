@@ -11,6 +11,7 @@
 ## Network Projects
 
 - [:speech_balloon: Minimal chatroom](https://github.com/blr-ophon/minimal_chatroom) 
+- [:speech_balloon: DNS client](https://github.com/blr-ophon/DNSquery)
 
 ## Emulators and retro gaming
 
