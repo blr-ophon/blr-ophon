@@ -12,7 +12,7 @@
 
 - [:speech_balloon: Minimal chatroom](https://github.com/blr-ophon/minimal_chatroom) 
 - [:speech_balloon: DNS client](https://github.com/blr-ophon/DNSquery)
-- [:speech_balloon: HTTP client](https://github.com/blr-ophon/min_httpclient)
+- [:speech_balloon: HTTP](https://github.com/blr-ophon/min_httpclient) and [:speech_balloon: HTTPS client](https://github.com/blr-ophon/min_httpsclient)
 
 ## Emulators and retro gaming
 
