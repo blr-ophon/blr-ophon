@@ -8,7 +8,7 @@
 
 ## Systems Programming
 
-- [:dvd: cursedOS](https://github.com/blr-ophon/qrsedOS): Small x86 bootloader and kernel. 
+- [:dvd: cursedOS](https://github.com/blr-ophon/qrsedOS): Small x86 bootloader and kernel (in progress)
 
 ## Network Projects
 
