@@ -30,3 +30,6 @@
 - [:tv: 3D raycasting engine](https://github.com/blr-ophon/simple3DRC)
 - [:tv: MODE 7 engine](https://github.com/blr-ophon/simpleM7)
 
+## Database Projects
+
+- [:bar_chart: Log-structured key value store](https://github.com/blr-ophon/nemodb)
