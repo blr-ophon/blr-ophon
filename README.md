@@ -33,3 +33,4 @@
 ## Database Projects
 
 - [:bar_chart: Log-structured key value store](https://github.com/blr-ophon/nemodb)
+- [:bar_chart: Mini relational database](https://github.com/blr-ophon/nemoKVS): (in progress)
