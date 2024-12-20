@@ -11,13 +11,13 @@
 ## Operating and Embedded Systems
 
 - [:dvd: cursedOS](https://github.com/blr-ophon/qrsedOS): Small x86 bootloader and kernel (in progress)
-- [:dvd: MSFP interface](https://github.com/blr-ophon/qrsedOS): Interface for data acquisition and plotting
-- [:dvd: MSFP API](https://github.com/blr-ophon/qrsedOS): My own protocol for sensor data transfer
-- [:dvd: ASPEP API](https://github.com/blr-ophon/qrsedOS): API for ST ASPEP protocol communication (in progress)
+- [:repeat: MSFP API](https://github.com/blr-ophon/qrsedOS): My own protocol for sensor data transfer
+    - [MSFP interface](https://github.com/blr-ophon/qrsedOS): Interface for data acquisition and plotting
+- [:repeat: ASPEP API](https://github.com/blr-ophon/qrsedOS): API for ST ASPEP protocol communication (in progress)
 
 ## Network Projects
 
-- [:speech_balloon: DNS client](https://github.com/blr-ophon/DNSquery), [:speech_balloon: HTTP](https://github.com/blr-ophon/min_httpclient) and [ HTTPS client](https://github.com/blr-ophon/min_httpsclient)
+- [:speech_balloon: DNS client](https://github.com/blr-ophon/DNSquery), [HTTP](https://github.com/blr-ophon/min_httpclient) and [HTTPS client](https://github.com/blr-ophon/min_httpsclient)
 - [:speech_balloon: Minimal chatroom](https://github.com/blr-ophon/minimal_chatroom) 
 - [:speech_balloon: IPv4 Routing table](https://github.com/blr-ophon/IP_RoutingTable) 
 
