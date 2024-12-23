@@ -13,7 +13,7 @@
 - [:dvd: cursedOS](https://github.com/blr-ophon/qrsedOS): Small x86 bootloader and kernel (in progress)
 - [:repeat: MSFP API](https://github.com/blr-ophon/lvad_monitor): My own protocol for sensor data transfer
     - [MSFP interface](https://github.com/blr-ophon/lvad_monitor): Interface for data acquisition and plotting
-- [:repeat: ASPEP API](https://github.com/blr-ophon/LVADui): API for ST ASPEP protocol communication (in progress)
+- [:repeat: ASPEP API](https://github.com/blr-ophon/cmdpilot): API for ST ASPEP protocol communication (in progress)
 
 ## Network Projects
 
